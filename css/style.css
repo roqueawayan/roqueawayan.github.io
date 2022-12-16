@@ -15,13 +15,6 @@
     background-size: cover;
     background-position: center;
 }
-body {
-    display: flex;
-    flex-direction: column;
-    max-width: 1440px;
-    margin: 0 auto;
-    height: 100vh;
-}
 nav {
     display: flex;
     align-items: center;
