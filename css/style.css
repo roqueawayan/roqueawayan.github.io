@@ -287,6 +287,9 @@ h5 {
     cursor: pointer;
 }
 /*--contactme*/
+.contact-secction {
+    
+}
 .wrapper1 {
     width: 350px;
     height: 380px;
@@ -297,6 +300,10 @@ h5 {
     border-bottom-right-radius: 80px;
     border-top-left-radius: 80px;
     border: 1px solid rgb(139, 83, 73);
+    background: url(../gif/about/new-image2.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    align-items: center;
 }
 form.contact-form {
     width: 260px;
@@ -332,10 +339,11 @@ button.section3-button {
 button.section3-button:hover {
     background: rgba(331, 66, 66, 0.9);
 }
+/*footer-section*/
 footer {
     position: relative;
     width: 100%;
-    height: 400px;
+    height: 285px;
     display: flex;
     background: url(../gif/gif8.gif);
     background-repeat: no-repeat;
