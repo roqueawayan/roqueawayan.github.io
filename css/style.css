@@ -220,7 +220,7 @@ button:hover {
     color: #ffff;
     font-size: 75px;
     width: 1130px;
-    margin: 30px auto;
+    margin: 0 auto;
     text-align: center;
     flex-wrap: wrap;
 }
