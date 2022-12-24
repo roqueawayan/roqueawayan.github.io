@@ -35,7 +35,7 @@ nav {
 }
 .icon {
     width: 55%;
-    height: 45%;
+    height: 43%;
     align-items: center;
     text-align: center;
     flex-wrap: wrap;
@@ -232,7 +232,7 @@ button:hover {
     min-height: 400px;
 }
 .card {
-    height: 335px;
+    height: 360px;
     width: 335px;
     padding: 20px 35px;
     background: #2a3eff;
