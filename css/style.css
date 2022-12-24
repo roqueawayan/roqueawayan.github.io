@@ -95,6 +95,9 @@ h4{
     letter-spacing: 2px;
     font-size: 20px;
 }
+h5 {
+    margin-top: 5px;
+}
 .newslatter form {
     width: 300px;
     max-width: 100%;
@@ -112,6 +115,7 @@ h4{
 .newslatter form input:last-child {
     position: absolute;
     display: inline-block;
+    cursor: pointer;
     outline: none;
     border: none;
     padding: 10px 30px ;
