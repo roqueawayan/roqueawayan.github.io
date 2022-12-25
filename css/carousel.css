@@ -4,9 +4,8 @@
 
 body {
 
-  color: #5a5a5a;
+  color: #000;
 }
-
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -19,6 +18,12 @@ body {
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
+}
+
+/* new added styles */
+.bg-dark {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
 }
 
 /* Declare heights because of positioning of img element */
@@ -78,4 +83,13 @@ body {
   .featurette-heading {
     margin-top: 7rem;
   }
+}
+
+/* new added about-icons */
+img.about-icon1 {
+  width: 65%;
+  height: 50%;
+}
+img.sunset {
+  width: 100%;
 }
