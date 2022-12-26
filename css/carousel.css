@@ -93,3 +93,9 @@ img.about-icon1 {
 img.sunset {
   width: 100%;
 }
+
+h1.h1favorite {
+  color: black;
+  text-align: center;
+  padding-bottom: 25px;
+}
